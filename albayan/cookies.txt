@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.albayan.ae	TRUE	/	FALSE	1999999999	DMS_USERID	b8af3ff9-a53c-4f04-8ba3-668692280fd6
+www.albayan.ae	TRUE	/	FALSE	1999999999	SameSite	None
+www.albayan.ae	TRUE	/	FALSE	1999999999	dmi_loc	AE
+
